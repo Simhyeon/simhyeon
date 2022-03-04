@@ -10,7 +10,9 @@ I'm a game designer and a programmer who makes game development tools.
 <a href="mailto:simoncreek@tutanota.com"><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white"/></a>
 <a href="https://simoncreek.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
-<img align="center" href="https://github.com/simhyeon" src="https://github-readme-stats.vercel.app/api?username=simhyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true"/>
+<!--<img align="center" href="https://github.com/simhyeon" src="https://github-readme-stats.vercel.app/api?username=simhyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true"/>-->
+
+![simhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyeon&show_icons=true)
 
 <h2>Workspace</h2>
 	
