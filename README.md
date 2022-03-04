@@ -2,15 +2,18 @@
 
 <p align="center">
 I'm a game designer and a programmer who makes game development tools.
-
-<!--Contact badges-->
-<a href="mailto:simoncreek@tutanota.com"><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white"/></a>
-<a href="https://simoncreek.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <div align="center">
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+Contacts
+<!--Contact badges-->
+<a href="mailto:simoncreek@tutanota.com"><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white"/></a>
+<a href="https://simoncreek.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+
 </div>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=simhyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Workspace
 	
