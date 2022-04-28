@@ -45,6 +45,7 @@ I'm a game designer and a programmer who makes game development tools.
 | R4d | Text oriented macro processor | <a href="https://github.com/simhyeon/r4d">![r4d version](https://img.shields.io/crates/v/r4d?style=flat-square)</a> | <a href="https://crates.io/crates/r4d"> ![r4d download](https://img.shields.io/crates/d/r4d?style=flat-square) </a> | 
 | Cindex | Raw index for csv file | <a href="https://github.com/simhyeon/cindex">![cindex version](https://img.shields.io/crates/v/cindex?style=flat-square)</a> | <a href="https://crates.io/crates/cindex"> ![cindex download](https://img.shields.io/crates/d/cindex?style=flat-square) </a> | 
 | Gcalc | Game Probability calculator | <a href="https://github.com/simhyeon/gcalc">![gcalc version](https://img.shields.io/crates/v/gcalc?style=flat-square)</a> | <a href="https://crates.io/crates/gcalc"> ![gcalc download](https://img.shields.io/crates/d/gcalc?style=flat-square) </a> | 
+| Ced | Csv editor | <a href="https://github.com/simhyeon/ced">![ced version](https://img.shields.io/crates/v/ced?style=flat-square)</a> | <a href="https://crates.io/crates/ced"> ![ced download](https://img.shields.io/crates/d/ced?style=flat-square) </a> | 
 | Rif | Document impact control system | <a href="https://github.com/simhyeon/rif">![rif version](https://img.shields.io/crates/v/rif?style=flat-square)</a> | <a href="https://crates.io/crates/rif"> ![rif download](https://img.shields.io/crates/d/rif?style=flat-square) </a> | 
 
 </div>
